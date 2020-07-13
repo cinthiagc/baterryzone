@@ -1,0 +1,22 @@
+.hero-image {
+  background-image: url('./images/prime.jpg');
+  background-color: #cccccc;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: 0.9;
+}
+  .bg-img {
+  /* The image used */
+  background-image: url('./images/prime.jpg');
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
